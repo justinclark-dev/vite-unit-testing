@@ -18,7 +18,8 @@ touch src/test/setup.js
 touch src/App.test.jsx
 ```
 
-<img width="1889" height="1574" alt="image" src="https://github.com/user-attachments/assets/d4e42314-4444-497e-a3d3-a1320d8a390d" />
+<img width="932" height="785" alt="image" src="https://github.com/user-attachments/assets/44256aa6-b313-4e9d-a45a-bdfc60cafae7" />
+
 
 **Edit the following files:**
 package.json
