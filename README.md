@@ -48,4 +48,5 @@ App.test.jsx
 npm run test
 ```
 
-<img width="1321" height="531" alt="image" src="https://github.com/user-attachments/assets/2fb6d6e2-ea78-479a-8e5b-b91286084b7f" />
+<img width="656" height="266" alt="image" src="https://github.com/user-attachments/assets/7d697afc-d0cf-44f9-8820-2b11d91c4512" />
+
